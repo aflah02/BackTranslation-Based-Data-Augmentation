@@ -8,7 +8,7 @@ To learn more about Backtranslation you can check out this [blog post](https://t
 
 **Q- How can I run this?**
 
-A - Just open the .ipynb file, click on the "open in colab" button location at the start of the notebook, set runtime to GPU (for speedy training) and run all cells (everything else is already handled)
+A - Just open the .ipynb file, click on the "open in colab" button located at the start of the notebook and run all cells (everything else is already handled)
 
 References - 
 
