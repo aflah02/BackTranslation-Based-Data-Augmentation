@@ -12,4 +12,4 @@ A - Just open the .ipynb file, click on the "open in colab" button located at th
 
 References - 
 
-- [How to use "translators" for comments translation by WELF CROZZO](https://www.kaggle.com/miklgr500/how-to-use-translators-for-comments-translation)
+- [How to use "translators" for comments translation by Welf Crozzo](https://www.kaggle.com/miklgr500/how-to-use-translators-for-comments-translation)
