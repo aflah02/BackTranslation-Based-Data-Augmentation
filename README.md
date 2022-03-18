@@ -6,6 +6,8 @@ The methodology is simply to translate the sentence into a pivot language and th
 
 To learn more about Backtranslation you can check out this [blog post](https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28)
 
+### FAQs:
+
 **Q- How can I run this?**
 
 A - Just open the .ipynb file, click on the "open in colab" button located at the start of the notebook and run all cells (everything else is already handled)
